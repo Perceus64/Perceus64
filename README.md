@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+<p align="center">
+  <img src="dark.svg" width="800">
+</p>
 <!--
 **Perceus64/Perceus64** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
